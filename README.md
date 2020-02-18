@@ -1,1 +1,1 @@
-### Serverless framework, Aws and React
+### Serverless with Aws and React
